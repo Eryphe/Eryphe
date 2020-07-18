@@ -7,6 +7,13 @@ I wanna be a polyglot someday tho...
 
 # Alright, now here's the list of things I've made.
 
+## Moonessine
+A public Discord bot, discontinued.
+### Features
+- Fun commands (not really)
+- Play RPS!
+- Mini-tools!
+
 ## Funkn.
 A private music bot, an extension to Leuxitai, which had a Music system previously.<br/>
 Current version: v2.9a1
@@ -20,6 +27,7 @@ Current version: v2.9a1
 
 ## Leuxitai
 A public Discord bot, all around, Economy, Levels, Moderation, and more!<br/>
+Successor of Moonessine. <br/>
 Current version: v16.8a
 ### Features
 - A moderation system!
