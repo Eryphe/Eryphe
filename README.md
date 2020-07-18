@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Fizx.
-HydroCreac is only my username.
+
 ## I like creating stuff that doesn't exist yet.
 
 The language I'm really into is JavaScript.
