@@ -27,3 +27,15 @@ Current version: v16.8a
 - Economy System!
 - Tool commands such as `reddit`, `unsplash`, `urban`, and more!
 - Custom Background for the Level System!
+
+## Discord.JSON
+A discord.js (v11.6.4) wrapper that let's you create discord bots using JSON.
+
+### Features
+- Make use of JSON (ues ues)
+- Customizable. just like Discord.JS
+- Back-end JSON, starter JS
+
+# OMG... 😳 | Support me!
+You can join my Discord server below and get updated on my creations!
+[FizxCreations.](https://discord.gg/6uWa4Ga)
