@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Fizx.
 
-I like creating stuff that doesn't exist yet.
+I like creating stuff.
 The language I'm really into is JavaScript.
-I wanna be a polyglot someday tho...
+I wanna be a polyglot someday tho...<br>
 See my creations below. 
 
 ## Moonessine
