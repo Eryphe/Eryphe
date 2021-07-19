@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Eryphe.
+# Hi there 👋 I'm Fizx.
 
 I like creating stuff.
 The language I'm really into is JavaScript.
@@ -13,4 +13,4 @@ A Discord bot coded in CoffeeScript! A template with a few useful commands, to g
 
 # 😳 | Support
 You can join my Discord server below and get updated on my creations!
-[HubElix](https://discord.gg/fKSSFJwTZj)
+[Eryphub](https://discord.gg/fKSSFJwTZj)
