@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Fizx.
 
 I like creating stuff.
-The language I'm really into is JavaScript.
-I wanna be a polyglot someday tho...<br>
+The language I'm really into is JavaScript, TypeScript, and CoffeeScript.<br>
 See my creations below. 
 
 ## Funkn.
