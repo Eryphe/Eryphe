@@ -1,8 +1,7 @@
 # Carl, at the ready.
 
 I like creating stuff when I can.
-I'm into JavaScript, and a little Python.<br>
-See my creations below. 
+I'm into JavaScript, and a little Python.
 
 ## Funkn.
 A Discord music bot with tons of freemium features. Outdated, but open source.
