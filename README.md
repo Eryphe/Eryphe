@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Fizx.
+# Hi there 👋 I'm Carl.
 
-I like creating stuff.
+I like creating stuff when I can.
 I'm into JavaScript, and a little Python.<br>
 See my creations below. 
 
