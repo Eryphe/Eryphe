@@ -1,4 +1,4 @@
-# Carl, at the ready.
+# Gelo, at the ready.
 
 I like creating stuff when I can.
 I'm into JavaScript, and a little Python.
