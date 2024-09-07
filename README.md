@@ -1,10 +1,10 @@
-# Gelo, at the ready.
+# Hello!
 
 I like creating stuff when I can.
-I'm into JavaScript, and a little Python.
+I'm into JavaScript, and currently learning Java.
 
 ## Funkn.
 A Discord music bot with tons of freemium features. Outdated, but open source.
 
 ## Kko-hi
-A Discord bot coded in CoffeeScript! A template with a few useful commands, to get you a running start on creating a Discord bot in CoffeeScript.
+A Discord bot coded in CoffeeScript! A template with a few useful commands, to get you a running start on creating a Discord bot in CoffeeScript. Now also in Java.
