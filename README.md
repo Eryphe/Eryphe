@@ -3,6 +3,9 @@
 I like creating stuff when I can.
 I'm into JavaScript, and currently learning Java.
 
+## Website
+Enter my website [here](https://gelofi.github.io/portfolio/)
+
 ## Funkn.
 A Discord music bot with tons of freemium features. Outdated, but open source.
 
